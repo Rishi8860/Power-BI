@@ -14,19 +14,22 @@ Data Integration: Seamlessly integrate data from various sources, including data
 
 📁 Repository Structure:
 
-Project 1: Call Cetre Dashboard
+Project 1: Call Centre Dashboard
 
 Project 2: Super Store Dashboard
 
 Project 3: HR Analytics Dashboard
 
 🛠️ Getting Started:
+
 Clone the repository to your local machine.
 Open the Power BI files using Power BI Desktop.
 Connect to your data source or use the sample data provided.
 Customize the dashboards to fit your specific needs.
 Enjoy exploring and gaining valuable insights from your data!
+
 🌐 Resources:
+
 Power BI Documentation
 Community Forums
 Power BI Blog
@@ -34,4 +37,3 @@ Feel free to contribute, report issues, or suggest improvements. Let's empower e
 
 Happy analyzing! 📊💡
 
-Feel free to modify and personalize this description according to the specifics of your Power BI dashboards projects.
